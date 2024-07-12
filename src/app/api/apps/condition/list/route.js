@@ -5,7 +5,7 @@ const db = new PrismaClient();
 
 export const GET = async (req) => {
   try {
-    const users = await db.Condition.findMany({
+    const users = await db.condition.findMany({
       orderBy: [
         { name: 'desc' }
       ]
