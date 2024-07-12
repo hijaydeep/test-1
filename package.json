@@ -63,8 +63,8 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
-    "@prisma/client": "^5.13.0",
+    "@prisma/client": "^5.16.2",
     "@types/react-draft-wysiwyg": "^1.13.8",
-    "prisma": "^5.16.1"
+    "prisma": "^5.16.2"
   }
 }

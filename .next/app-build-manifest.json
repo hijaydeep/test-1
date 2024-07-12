@@ -22,23 +22,28 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(dashboard)/home/page.js"
     ],
+    "/apps/user/list/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/apps/user/list/page.css",
+      "static/chunks/app/apps/user/list/page.js"
+    ],
     "/apps/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/apps/layout.css",
       "static/chunks/app/apps/layout.js"
     ],
-    "/apps/articles/list/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/apps/articles/list/page.css",
-      "static/chunks/app/apps/articles/list/page.js"
-    ],
     "/[...not-found]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/[...not-found]/page.css",
       "static/chunks/app/[...not-found]/page.js"
+    ],
+    "/apps/user/add/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/apps/user/add/page.js"
     ]
   }
 }

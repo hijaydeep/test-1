@@ -1,8 +1,8 @@
-// File: G:\MeschinoHealt\MeschinoHealt\src\app\apps\articles\list\page.jsx
-import * as entry from '../../../../../../src/app/apps/articles/list/page.js'
+// File: G:\MeschinoHealt\MeschinoHealt\src\app\apps\user\list\page.jsx
+import * as entry from '../../../../../../src/app/apps/user/list/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../../../src/app/apps/articles/list/page.js')
+type TEntry = typeof import('../../../../../../src/app/apps/user/list/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{

@@ -13,7 +13,7 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model User {
+model user {
   id       Int      @id @default(autoincrement())
   fullName String
   company  String
@@ -24,7 +24,7 @@ model User {
   status   String
 }
 
-model Nmu {
+model nmu {
   id               Int      @id @default(autoincrement())
   topic            String
   source           String
@@ -36,7 +36,7 @@ model Nmu {
   createdAt        DateTime @default(now())
 }
 
-model Condition {
+model condition {
   id               Int      @id @default(autoincrement())
   topic            String
   name             String
