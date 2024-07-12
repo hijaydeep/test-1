@@ -1,32 +1,16 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/(dashboard)/layout": [
+    "/apps/articles/list/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/(dashboard)/layout.css",
-      "static/chunks/app/(dashboard)/layout.js"
-    ],
-    "/(dashboard)/home/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/home/page.js"
-    ],
-    "/apps/user/list/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/apps/user/list/page.css",
-      "static/chunks/app/apps/user/list/page.js"
+      "static/css/app/apps/articles/list/page.css",
+      "static/chunks/app/apps/articles/list/page.js"
     ],
     "/apps/layout": [
       "static/chunks/webpack.js",
@@ -40,10 +24,11 @@
       "static/css/app/[...not-found]/page.css",
       "static/chunks/app/[...not-found]/page.js"
     ],
-    "/apps/user/add/page": [
+    "/apps/user/list/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/apps/user/add/page.js"
+      "static/css/app/apps/user/list/page.css",
+      "static/chunks/app/apps/user/list/page.js"
     ]
   }
 }

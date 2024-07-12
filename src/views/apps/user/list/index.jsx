@@ -11,7 +11,7 @@ const UserList = () => {
 
   useEffect(() => {
     const getData = async () => {
-      const res = await fetch('http://localhost:3000/api/apps/user/list')
+      const res = await fetch('/api/apps/user/list')
       const data = await res.json();
       setUserList(data);
     }

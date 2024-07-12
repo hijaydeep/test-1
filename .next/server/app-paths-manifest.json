@@ -1,6 +1,6 @@
 {
+  "/api/apps/user/list/route": "app/api/apps/user/list/route.js",
   "/[...not-found]/page": "app/[...not-found]/page.js",
-  "/apps/user/list/page": "app/apps/user/list/page.js",
-  "/(dashboard)/home/page": "app/(dashboard)/home/page.js",
-  "/apps/user/add/page": "app/apps/user/add/page.js"
+  "/apps/articles/list/page": "app/apps/articles/list/page.js",
+  "/apps/user/list/page": "app/apps/user/list/page.js"
 }

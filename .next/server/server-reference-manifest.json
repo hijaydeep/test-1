@@ -2,89 +2,77 @@
   "node": {
     "1bc033956703030ac8c796342f2b799d69f1eb61": {
       "workers": {
-        "app/(dashboard)/home/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
+        "app/apps/articles/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
         "app/[...not-found]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
+        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/home/page": "rsc",
-        "app/apps/user/list/page": "rsc",
+        "app/apps/articles/list/page": "rsc",
         "app/[...not-found]/page": "rsc",
-        "app/apps/user/add/page": "rsc"
+        "app/apps/user/list/page": "rsc"
       }
     },
     "34344c4f6543f5524afd05165c2e722edb8e291b": {
       "workers": {
-        "app/(dashboard)/home/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
+        "app/apps/articles/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
         "app/[...not-found]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
+        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/home/page": "rsc",
-        "app/apps/user/list/page": "rsc",
+        "app/apps/articles/list/page": "rsc",
         "app/[...not-found]/page": "rsc",
-        "app/apps/user/add/page": "rsc"
+        "app/apps/user/list/page": "rsc"
       }
     },
     "40b866625ac8724cd251ec02cc42bd7034e1a5d5": {
       "workers": {
-        "app/(dashboard)/home/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
+        "app/apps/articles/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
         "app/[...not-found]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
+        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/home/page": "rsc",
-        "app/apps/user/list/page": "rsc",
+        "app/apps/articles/list/page": "rsc",
         "app/[...not-found]/page": "rsc",
-        "app/apps/user/add/page": "rsc"
+        "app/apps/user/list/page": "rsc"
       }
     },
     "5af309ad52df59875090e38fdb1aedda51b001c6": {
       "workers": {
-        "app/(dashboard)/home/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
+        "app/apps/articles/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
         "app/[...not-found]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
+        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/home/page": "rsc",
-        "app/apps/user/list/page": "rsc",
+        "app/apps/articles/list/page": "rsc",
         "app/[...not-found]/page": "rsc",
-        "app/apps/user/add/page": "rsc"
+        "app/apps/user/list/page": "rsc"
       }
     },
     "b41cb57d7a654a067eb7f0a096a73694e5aa49ca": {
       "workers": {
-        "app/(dashboard)/home/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
+        "app/apps/articles/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
         "app/[...not-found]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
+        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/home/page": "rsc",
-        "app/apps/user/list/page": "rsc",
+        "app/apps/articles/list/page": "rsc",
         "app/[...not-found]/page": "rsc",
-        "app/apps/user/add/page": "rsc"
+        "app/apps/user/list/page": "rsc"
       }
     },
     "e1d95a0516cee73312c8461cd73ca11f091972bd": {
       "workers": {
-        "app/(dashboard)/home/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
+        "app/apps/articles/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
         "app/[...not-found]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!",
-        "app/apps/user/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
+        "app/apps/user/list/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22G%3A%5C%5CMeschinoHealt%5C%5CMeschinoHealt%5C%5Csrc%5C%5C%40core%5C%5Cutils%5C%5CserverHelpers.js%22%2C%5B%22getMode%22%2C%22getServerMode%22%2C%22getDemoName%22%2C%22getSystemMode%22%2C%22getSettingsFromCookie%22%2C%22getSkin%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/home/page": "rsc",
-        "app/apps/user/list/page": "rsc",
+        "app/apps/articles/list/page": "rsc",
         "app/[...not-found]/page": "rsc",
-        "app/apps/user/add/page": "rsc"
+        "app/apps/user/list/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "wKdNybA4S1zdF5fnzio1Mena5Lg+SV2Cv3O708rq+V8="
+  "encryptionKey": "8E0FWlIlm6v1JbvqEsmt+goO8Bqu/EZfIGhMqr2Fte0="
 }
